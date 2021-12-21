@@ -23,4 +23,30 @@ Returns the amount of substrings in an array are in a given string.
 `ruby substrings.rb`
 
 ### purpose
+
 Show knowledge of manipulating strings
+
+## stock picker
+
+Returns the buy/sell date combination which yields the greatest return.
+
+### how to use
+
+`ruby stock_picker.rb`
+
+### purpose
+
+Show understanding of multi-dimensional for loops.
+
+## bubble sort
+
+Sorts a numerical array inefficiently.
+
+### how to use
+
+`ruby bubble_sort.rb`
+
+### purpose
+
+Understand how a basic sorting algorithm works.
+
